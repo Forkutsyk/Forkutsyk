@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">Beginner Python developer from Poland, passionate about learning new technologies and constantly improving my skills.</h3>
 
-- 🔭 I’m currently working on [100_days_of_Python](https://github.com/Forkutsyk/100_days_of_Python)
+- 🔭 I’m currently working on [100_days_of_Python](https://github.com/Forkutsyk/100_days_of_Python) and [WordMaster app](https://github.com/Forkutsyk/WordMaster)
 
 - 🌱 I’m currently learning **Python (Tkinter, Pandas), SQLite, Docker, Kubernetes**
 
